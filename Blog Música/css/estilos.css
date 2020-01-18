@@ -1,0 +1,27 @@
+#cuadrado {
+  width: 12%;
+  height: 12%;
+}
+
+.box {
+  margin-top: 60px;
+}
+
+.redes-sociales {
+  margin-top:20px;
+  background-color: white;
+}
+.img-social {
+  height: 30px;
+  width:30px;
+}
+
+.img-mm {
+width: 70px;
+}
+
+.imagen {
+  margin-top:120px;
+  padding:auto;
+  height:-webkit-fill-available;
+  }

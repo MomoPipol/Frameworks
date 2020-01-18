@@ -1,0 +1,36 @@
+#Fondo {
+background-image: url(../img/home.jpg);
+background-size: cover;
+}
+#Puf {
+background-color:rgba(15,15,0,0.3);
+}
+#borde
+{
+  border-left: 1px;
+  border-color: white;
+
+}
+
+}
+#noop {
+  opacity: 1 !important;
+}
+.menu {
+  background: white;
+  li {
+  border: 1px;
+  background:blue;
+&:hover {
+  background: lighten(#333, 20%)
+        }
+      }
+
+.a {
+  background: white;
+    }
+  }
+
+.search-field
+
+.searchbar
